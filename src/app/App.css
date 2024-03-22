@@ -1,0 +1,11 @@
+body {
+  
+    background-image: url('https://static.wixstatic.com/media/d91663_ac6a447f355948cf86c611b8bc917797~mv2_d_1980_1238_s_2.jpg/v1/fill/w_1920,h_1200,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/d91663_ac6a447f355948cf86c611b8bc917797~mv2_d_1980_1238_s_2.jpg');
+}
+
+
+.hz {
+    justify-content: space-between;
+    /* color: "#212121" */
+    color: rgb(0, 0, 255)
+}
